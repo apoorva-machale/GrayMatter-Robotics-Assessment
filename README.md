@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Local Search
 
 ## Overview
@@ -76,3 +77,6 @@ The provided code has three classes. The `Timer` class is used to measure the wa
 - We will test your code on a Linux machine that supports C++11
 - We will test your program with several benchmarks using different parameters. You can assume that *r* and *c* will be between 5 and 10 (inclusive). 
 - Puzzles that do not have a solution or that exceed the time limit (1 minute) will not be considered.
+=======
+# GrayMatter-Robotics-Assessment
+>>>>>>> origin/main

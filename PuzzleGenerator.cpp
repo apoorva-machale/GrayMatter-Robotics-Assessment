@@ -66,6 +66,7 @@ Puzzle PuzzleGenerator::RandomWalk(double timelimit)
         // Find the successor with the highest value.
         Puzzle bestSuccessor = p;
         int bestSuccessorValue = p.GetValue();
+	//created iterator to traverse through successors.
 	for (vector<Puzzle>::iterator it = successors.begin(); it != successors.end(); ++it)
 	{
     	    const Puzzle& successor = *it;
