@@ -91,9 +91,6 @@ Puzzle PuzzleGenerator::RandomWalk(double timelimit)
             return bestPuzzle;
         }
     }
-
-    
-
 	return bestPuzzle;
 
 	// The following code is not executed in this function. It exists just as an example for getting all the successors of a puzzle.
